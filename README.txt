@@ -35,7 +35,7 @@ Prerequisites
 
 Run the Simulation
 1. Clone this repository:
-   git clone https://github.com/USERNAME/Club-Simulation.git
+   git clone https://github.com/Mxolisi-Khumalo/Club-Simulation.git
    cd Club-Simulation
 2. (Optional) Adjust command line inputs in the run method of the Makefile to customize your simulation.
 3. Start the simulation with:
